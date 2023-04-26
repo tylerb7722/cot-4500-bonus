@@ -61,7 +61,7 @@ B. Initial guess: 0.5
   |2|    |4|    |1.55|
 
 
-5. The final value using the modified Eulers method or Runge-Kutta with the following information:
+5. The final value using the modified Eulers method or 2nd order Runge-Kutta with the following information:
 
 A. Function: y – t^3
 
